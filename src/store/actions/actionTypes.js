@@ -1,0 +1,25 @@
+export const AUTH_SUCCESS = 'AUTH_SUCCESS'
+export const AUTH_ERROR = 'AUTH_ERROR'
+export const AUTH_LOGOUT = 'AUTH_LOGOUT'
+
+export const CLOSE_MENU = 'CLOSE_MENU'
+export const TOGGLE_MENU = 'TOGGLE_MENU'
+
+export const CREATE_NEW_TASK = 'CREATE_NEW_TASK'
+export const RESET_TOPIC = 'RESET_TOPIC'
+
+export const FETCH_TOPIC_START = 'FETCH_TOPIC_START'
+export const FETCH_TOPICS_SUCCESS = 'FETCH_TOPICS_SUCCESS'
+export const FETCH_TOPIC_SUCCESS = 'FETCH_TOPIC_SUCCESS'
+export const FETCH_TOPIC_ERROR = 'FETCH_TOPIC_ERROR'
+export const TOGGLE_EDITOR = 'TOGGLE_EDITOR'
+export const CHANGE_TASK = 'CHANGE_TASK'
+export const ADD_TASK = 'ADD_TASK'
+
+
+
+
+
+
+
+
